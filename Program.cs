@@ -9,7 +9,8 @@ namespace storyTeller
         static void Main(string[] args)
         {
             // welcome user to the program
-            Console.WriteLine(FiggleFonts.Standard.Render("\n\n\nStory Teller Companion : 3\n\n\n"));
+            string mssg = FiggleFonts.Standard.Render("\n\n\n____Story Teller Companion____\n\n\n");
+            Console.WriteLine(String.Format("{0," + Console.WindowWidth / 2 + "}",mssg));
             Job.addEmptyLines(4);
 
             //fetch the folder with all the stories inside of it

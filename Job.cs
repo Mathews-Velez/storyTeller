@@ -28,8 +28,6 @@ namespace storyTeller
                     //delay between each line
                     int miliseconds = 500;
                     Thread.Sleep(miliseconds);
-                    //Console.WriteLine();
-                    //Console.WriteLine(delay);
                     int speed = Console.ReadKey(true).KeyChar;
 
                     if (speed=='i'){
@@ -39,6 +37,7 @@ namespace storyTeller
                     } else if(speed == 'r'){
                         delay = delay +20;
                         addEmptyLines(2);
+                        Console.WriteLine(String.Format("{0," + Console.WindowWidth / 2 + "}","hello"));
                         Console.WriteLine("Speed of text print has been set to {0}",delay);
 
                     } else {
