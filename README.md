@@ -11,6 +11,9 @@ git clone https://github.com/Mathews-Velez/storyTeller.git
 ```
 
 ## Usage
+The app lists the .txt files that are present in the stories folder. If you want to add stories simply add the .txt files in the stories folder. Then select the story you want to be used in the app menu.
+
+### To run the app
 ```bash
 cd storyTeller
 dotnet run
