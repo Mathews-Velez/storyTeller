@@ -1,6 +1,6 @@
 # StoryTeller
 
-StoryTeller is a cli app built on c#.net, it takes .txt files and reads them out in a text-based adventure style game.
+StoryTeller is a cli app built on c#.net, it takes .txt files and reads them out in a text-based adventure game style.
 
 ## Requirements
 Make sure your machine is ready to run .NET core. Follow the link to set it up if it isn't already done. https://dotnet.microsoft.com/download
