@@ -15,4 +15,6 @@ git clone https://github.com/Mathews-Velez/storyTeller.git
 cd storyTeller
 dotnet run
 ```
+## Code of Conduct
+https://github.com/Mathews-Velez/storyTeller/blob/main/CODE_OF_CONDUCT.md
 
