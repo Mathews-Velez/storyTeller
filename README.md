@@ -18,3 +18,6 @@ dotnet run
 ## Code of Conduct
 https://github.com/Mathews-Velez/storyTeller/blob/main/CODE_OF_CONDUCT.md
 
+## Credit
+Used an ASCII banner generator library downloaded from here:
+https://github.com/drewnoakes/figgle.git
