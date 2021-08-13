@@ -8,9 +8,11 @@ namespace storyTeller
     {
         static void Main(string[] args)
         {
-            // welcome user to the program
+            Boolean loop=true;
 
-            Job.addEmptyLines(100);
+            // welcome user to the program
+            while (loop){
+                Job.addEmptyLines(100);
             string mssg = FiggleFonts.Standard.Render("\n\n\nStory Teller Companion\n\n\n");
             Console.WriteLine(String.Format("{0," + Console.WindowWidth / 2 + "}",mssg));
             Job.addEmptyLines(4);
@@ -46,10 +48,16 @@ namespace storyTeller
             Console.ReadKey();
             Job.addEmptyLines(10);
             Job.readFile(dirs[fileChoice], 70);
+            Job.addEmptyLines(5);
 
+            Console.WriteLine("Would you like to read another story?(y or n)");
+            char usersChoice = Console.ReadLine()[0];
 
-            
+            if (usersChoice == 'n'){
+                loop = false;
+            }
 
+            }
         }
     }
 }
