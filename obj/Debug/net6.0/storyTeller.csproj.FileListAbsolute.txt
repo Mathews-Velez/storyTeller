@@ -1,0 +1,17 @@
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/storyTeller
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/storyTeller.deps.json
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/storyTeller.runtimeconfig.json
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/storyTeller.dll
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/ref/storyTeller.dll
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/storyTeller.pdb
+/home/john/Code/C#/storyTeller/bin/Debug/net6.0/Figgle.dll
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.csproj.AssemblyReference.cache
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.AssemblyInfoInputs.cache
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.AssemblyInfo.cs
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.csproj.CoreCompileInputs.cache
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.csproj.CopyComplete
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.dll
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/ref/storyTeller.dll
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.pdb
+/home/john/Code/C#/storyTeller/obj/Debug/net6.0/storyTeller.genruntimeconfig.cache
